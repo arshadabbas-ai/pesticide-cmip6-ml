@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+xgboost
+geopandas
+shap
+optuna
+earthengine-api
+torch
+pytorch-forecasting
+streamlit
+joblib
